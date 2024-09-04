@@ -1,7 +1,7 @@
 # Italian-to-English-Machine-Translation-LSTM
 
 This project implements a machine translation model to convert Italian sentences into English using a sequence-to-sequence (seq2seq) architecture with LSTM layers in Keras. The model is designed to translate text efficiently while handling common challenges such as vocabulary size and sequence padding.
-****Key Features:
+****Key Features:****
 
   ****1. Data Preprocessing: The text data is cleaned by removing punctuation and converting the text to lowercase. Tokenization and padding are applied to prepare the sequences for model input.
 
